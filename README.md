@@ -1,0 +1,2 @@
+# wizard.lol
+wizard.lol
